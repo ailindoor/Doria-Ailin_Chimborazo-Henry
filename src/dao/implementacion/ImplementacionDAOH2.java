@@ -74,7 +74,7 @@ public class ImplementacionDAOH2 implements IDao<Odontologo> {
                 odontologo = new Odontologo(rs.getInt(1),
                         rs.getString(2),rs.getString(3));
                 odontologoList.add(odontologo);
-
+                //se mostrara los odontologos que han sido listados
                 LOGGER.info(odontologo.toString());
             }
 
