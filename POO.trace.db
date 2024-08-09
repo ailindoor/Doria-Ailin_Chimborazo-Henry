@@ -1,0 +1,36 @@
+2024-08-08 22:59:18.635433-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO ( NUMERO_MATRICULA, NOMBRE, APELLIDO)VALUES (?,?,?) [42104-230]
+2024-08-08 23:00:50.663554-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO ( NUMERO_MATRICULA, NOMBRE, APELLIDO)VALUES (?,?,?) [42104-230]
+2024-08-08 23:03:30.598413-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO ( NUMERO_MATRICULA, NOMBRE, APELLIDO)VALUES (?,?,?) [42104-230]
+2024-08-08 23:09:57.597435-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO ( NUMERO_MATRICULA, NOMBRE, APELLIDO)VALUES (?,?,?) [42104-230]
+2024-08-08 23:13:11.991117-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO ( NUMERO_MATRICULA, NOMBRE, APELLIDO)VALUES (?,?,?) [42104-230]
+2024-08-08 23:18:31.659716-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO ( NUMERO_MATRICULA, NOMBRE, APELLIDO)VALUES (?,?,?) [42104-230]
+2024-08-08 23:19:59.000892-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO ( NUMERO_MATRICULA, NOMBRE, APELLIDO)VALUES (?,?,?) [42104-230]
+2024-08-08 23:23:16.619698-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO ( NUMERO_MATRICULA, NOMBRE, APELLIDO)VALUES (?,?,?) [42104-230]
+2024-08-09 00:00:06.569935-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Conversión de datos fallida, convirtiendo "Juan"
+Data conversion error converting "Juan" [22018-230]
+2024-08-09 00:00:06.924563-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Conversión de datos fallida, convirtiendo "Juan"
+Data conversion error converting "Juan" [22018-230]
+2024-08-09 00:01:11.677375-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Conversión de datos fallida, convirtiendo "andre"
+Data conversion error converting "andre" [22018-230]
+2024-08-09 00:01:11.972022-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Conversión de datos fallida, convirtiendo "andre"
+Data conversion error converting "andre" [22018-230]

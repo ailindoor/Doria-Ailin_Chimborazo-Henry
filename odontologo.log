@@ -1,12 +1,37 @@
-[2024-08-08 22:22:59] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=1234, nombre='Juan', apellido='Sanches'}
-[2024-08-08 22:22:59] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=5678, nombre='Maria', apellido='Carrasco'}
-[2024-08-08 22:22:59] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=9101, nombre='Liz', apellido='Perez'}
-[2024-08-08 22:22:59] [ INFO ] [OdontologoDAOArray:22] Listado odontólogos
-[2024-08-08 22:24:52] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=1234, nombre='Juan', apellido='Sanches'}
-[2024-08-08 22:24:52] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=5678, nombre='Maria', apellido='Carrasco'}
-[2024-08-08 22:24:52] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=9101, nombre='Liz', apellido='Perez'}
-[2024-08-08 22:24:52] [ INFO ] [OdontologoDAOArray:22] Listado odontólogos
-[2024-08-08 22:56:03] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=1234, nombre='Juan', apellido='Sanches'}
-[2024-08-08 22:56:03] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=5678, nombre='Maria', apellido='Carrasco'}
-[2024-08-08 22:56:03] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=9101, nombre='Liz', apellido='Perez'}
-[2024-08-08 22:56:03] [ INFO ] [OdontologoDAOArray:22] Listado odontólogos
+[2024-08-08 23:24:37] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: Andres
+[2024-08-09 00:00:05] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: Juan
+[2024-08-09 00:00:05] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: Juan
+[2024-08-09 00:00:06] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: camilo
+[2024-08-09 00:01:10] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: Juan
+[2024-08-09 00:01:11] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: andre
+[2024-08-09 00:01:11] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: camilo
+[2024-08-09 00:03:09] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: Juan
+[2024-08-09 00:03:09] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: andre
+[2024-08-09 00:03:10] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: camilo
+[2024-08-09 00:03:10] [ INFO ] [Odontologo:78] modelo.Odontologo@12a94400
+[2024-08-09 00:03:10] [ INFO ] [Odontologo:78] modelo.Odontologo@6a47b187
+[2024-08-09 00:03:10] [ INFO ] [Odontologo:78] modelo.Odontologo@2049a9c1
+[2024-08-09 00:03:10] [ INFO ] [Odontologo:78] modelo.Odontologo@67b9b51a
+[2024-08-09 00:03:10] [ INFO ] [Odontologo:78] modelo.Odontologo@1205bd62
+[2024-08-09 00:03:10] [ INFO ] [Odontologo:78] modelo.Odontologo@7ef27d7f
+[2024-08-09 00:05:11] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: Juan
+[2024-08-09 00:05:12] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: andre
+[2024-08-09 00:05:12] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: camilo
+[2024-08-09 00:05:12] [ INFO ] [Odontologo:78] modelo.Odontologo@1b8a29df
+[2024-08-09 00:05:12] [ INFO ] [Odontologo:78] modelo.Odontologo@4fbe37eb
+[2024-08-09 00:05:12] [ INFO ] [Odontologo:78] modelo.Odontologo@12a94400
+[2024-08-09 00:06:05] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: Juan
+[2024-08-09 00:06:05] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: andre
+[2024-08-09 00:06:05] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: camilo
+[2024-08-09 00:06:06] [ INFO ] [Odontologo:78] modelo.Odontologo@398dada8
+[2024-08-09 00:06:06] [ INFO ] [Odontologo:78] modelo.Odontologo@7cb502c
+[2024-08-09 00:06:06] [ INFO ] [Odontologo:78] modelo.Odontologo@275bf9b3
+[2024-08-09 00:07:19] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: Juan
+[2024-08-09 00:07:19] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: andre
+[2024-08-09 00:07:19] [ INFO ] [Odontologo:42] se creo el odontolog de nombre: camilo
+[2024-08-09 00:07:19] [ INFO ] [Odontologo:78] modelo.Odontologo@4fbe37eb
+[2024-08-09 00:07:19] [ INFO ] [Odontologo:78] modelo.Odontologo@12a94400
+[2024-08-09 00:07:19] [ INFO ] [Odontologo:78] modelo.Odontologo@6a47b187
+[2024-08-09 00:07:20] [ INFO ] [Odontologo:78] modelo.Odontologo@616ac46a
+[2024-08-09 00:07:20] [ INFO ] [Odontologo:78] modelo.Odontologo@67b9b51a
+[2024-08-09 00:07:20] [ INFO ] [Odontologo:78] modelo.Odontologo@1205bd62
