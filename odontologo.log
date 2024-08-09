@@ -1,0 +1,12 @@
+[2024-08-08 22:22:59] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=1234, nombre='Juan', apellido='Sanches'}
+[2024-08-08 22:22:59] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=5678, nombre='Maria', apellido='Carrasco'}
+[2024-08-08 22:22:59] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=9101, nombre='Liz', apellido='Perez'}
+[2024-08-08 22:22:59] [ INFO ] [OdontologoDAOArray:22] Listado odontólogos
+[2024-08-08 22:24:52] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=1234, nombre='Juan', apellido='Sanches'}
+[2024-08-08 22:24:52] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=5678, nombre='Maria', apellido='Carrasco'}
+[2024-08-08 22:24:52] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=9101, nombre='Liz', apellido='Perez'}
+[2024-08-08 22:24:52] [ INFO ] [OdontologoDAOArray:22] Listado odontólogos
+[2024-08-08 22:56:03] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=1234, nombre='Juan', apellido='Sanches'}
+[2024-08-08 22:56:03] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=5678, nombre='Maria', apellido='Carrasco'}
+[2024-08-08 22:56:03] [ INFO ] [OdontologoDAOArray:18] Odontólogo registrado: OdontologoArray{numeroMatricula=9101, nombre='Liz', apellido='Perez'}
+[2024-08-08 22:56:03] [ INFO ] [OdontologoDAOArray:22] Listado odontólogos
